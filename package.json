@@ -1,0 +1,17 @@
+{
+  "name": "covid19package",
+  "version": "1.0.6",
+  "description": "新冠数据模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid19Data"
+  ],
+  "author": "zengpang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
